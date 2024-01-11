@@ -99,6 +99,7 @@ input,
   color: #888;
 }
 
+.new_task:focus,
 .list__input:focus {
   color: #333;
 }
